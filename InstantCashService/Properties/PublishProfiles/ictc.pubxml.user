@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>E:\Share Folder\ictc</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/InstantCashService.dll">
+      <publishTime>05/18/2021 19:27:12</publishTime>
+    </File>
+    <File Include="ICTCServiceClass.svc">
+      <publishTime>04/25/2021 09:32:42</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.AgentDataSoapOut.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.AnywherePayoutNetworkSoapOut.datasource">
+      <publishTime>04/25/2021 09:37:01</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.AttendIncidentResponse.datasource">
+      <publishTime>04/25/2021 09:37:03</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.AttendIncidentSoapOut.datasource">
+      <publishTime>04/25/2021 09:37:01</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.AuthorizeTranResponse.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.AuthorizeTranSoapOut.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.CancelIcTranResponse.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.CancelIcTranSoapOut.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.ChangePasswordResponse.datasource">
+      <publishTime>04/25/2021 09:37:03</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.ChangePasswordSoapOut.datasource">
+      <publishTime>04/25/2021 09:37:01</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.ChargeSlabSoapOut.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.CitySoapOut.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.ConfirmTranResponse.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.ConfirmTranSoapOut.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.ExchangeRateSoapOut.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.GenerateIctcRangeResponse.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.GenerateIctcRangeSoapOut.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.GenerateIctcResponse.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.GenerateIctcSoapOut.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.GetAgentDataResponse.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.GetAnywherePayoutNetworksResponse.datasource">
+      <publishTime>04/25/2021 09:37:03</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.GetBalanceResponse.datasource">
+      <publishTime>04/25/2021 09:37:03</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.GetBalanceSoapOut.datasource">
+      <publishTime>04/25/2021 09:37:01</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.GetChargeSlabResponse.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.GetCityResponse.datasource">
+      <publishTime>04/25/2021 09:37:03</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.GetExchangeRateResponse.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.GetIctcPayStatusResponse.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.GetIctcViolationResponse.datasource">
+      <publishTime>04/25/2021 09:37:03</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.GetIncidentsResponse.datasource">
+      <publishTime>04/25/2021 09:37:03</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.GetIncidentsSoapOut.datasource">
+      <publishTime>04/25/2021 09:37:01</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.GetModalityResponse.datasource">
+      <publishTime>04/25/2021 09:37:03</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.GetModeResponse.datasource">
+      <publishTime>04/25/2021 09:37:03</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.GetOutstandingRemittanceResponse.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.GetReceivingCountryResponse.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.GetStateResponse.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.GetTransStatusResponse.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.GetUpdatedAgentDataResponse.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.ICResult.datasource">
+      <publishTime>04/25/2021 09:37:01</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.IctcPayStatusSoapOut.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.IctcViolationSoapOut.datasource">
+      <publishTime>04/25/2021 09:37:01</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.ModalitySoapOut.datasource">
+      <publishTime>04/25/2021 09:37:01</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.ModeSoapOut.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.ModifyIcTranResponse.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.ModifyIcTranSoapOut.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.OutstandingRemittanceSoapOut.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.PostIncidentResponse.datasource">
+      <publishTime>04/25/2021 09:37:03</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.PostIncidentSoapOut.datasource">
+      <publishTime>04/25/2021 09:37:01</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.ReceivePaymentResponse.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.ReceivePaymentSoapOut.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.ReceivingCountrySoapOut.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.ReconcileResponse.datasource">
+      <publishTime>04/25/2021 09:37:03</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.ReconcileSoapOut.datasource">
+      <publishTime>04/25/2021 09:37:01</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.RegenerateIcTranResponse.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.RegenerateIcTranSoapOut.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.SendIcTranResponse.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.SendIcTranSoapOut.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.StateSoapOut.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.TrackIncidentResponse.datasource">
+      <publishTime>04/25/2021 09:37:03</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.TrackIncidentSoapOut.datasource">
+      <publishTime>04/25/2021 09:37:01</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.TransStatusSoapOut.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.UnlockIcTranResponse.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.UnlockIcTranSoapOut.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.UpdatedAgentDataSoapOut.datasource">
+      <publishTime>04/25/2021 09:37:02</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.ValidateAccountNumberSoapOut.datasource">
+      <publishTime>04/25/2021 09:37:01</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.ValidateBeneficiaryAccountResponse.datasource">
+      <publishTime>04/25/2021 09:37:03</publishTime>
+    </File>
+    <File Include="Service References/ICTCServiceReference/InstantCashService.ICTCServiceReference.ValidateMobileAccountResponse.datasource">
+      <publishTime>04/25/2021 09:37:03</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/17/2021 20:22:29</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
